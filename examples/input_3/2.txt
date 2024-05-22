@@ -1,0 +1,10 @@
+32
+500
+0.18
+0.28
+70
+210
+./examples/output_3/m2.txt
+./examples/output_3/s2.txt
+yes
+2024
