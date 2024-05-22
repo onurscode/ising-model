@@ -62,3 +62,5 @@ python plot.py -M ./examples/output_3/m1.txt -S ./examples/output_3/s1.txt --sav
 ```
 
 ![Figure output of the example](./examples/output_3/figure1.png)
+
+See [here](./examples/README.md) for more.
